@@ -1,0 +1,4 @@
+SamAccountName,FirstName,LastName,Department,Title,OU
+jdoe,John,Doe,IT,"Systems Analyst",IT_Dept
+asmith,Alice,Smith,HR,"HR Specialist",HR_Dept
+mbrown,Michael,Brown,Finance,Accountant,Finance_Dept

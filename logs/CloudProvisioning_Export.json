@@ -1,0 +1,32 @@
+﻿[
+    {
+        "OnPremisesSamAccountName":  "jdoe",
+        "UserPrincipalName":  "jdoe@hybridenterprise.onmicrosoft.com",
+        "DisplayName":  "John Doe",
+        "Department":  "IT",
+        "Title":  "Systems Analyst",
+        "ImmutableId":  "jEKmvlhuVU2ukQ8ND0xVvQ==",
+        "SyncStatus":  "StagedForCloudProvisioning",
+        "ProvisionedTimestamp":  "2026-10-30 13:26:05"
+    },
+    {
+        "OnPremisesSamAccountName":  "asmith",
+        "UserPrincipalName":  "asmith@hybridenterprise.onmicrosoft.com",
+        "DisplayName":  "Alice Smith",
+        "Department":  "HR",
+        "Title":  "HR Specialist",
+        "ImmutableId":  "oWyJbDbkXUKsdPICT2NvaA==",
+        "SyncStatus":  "StagedForCloudProvisioning",
+        "ProvisionedTimestamp":  "2026-10-30 13:26:05"
+    },
+    {
+        "OnPremisesSamAccountName":  "mbrown",
+        "UserPrincipalName":  "mbrown@hybridenterprise.onmicrosoft.com",
+        "DisplayName":  "Michael Brown",
+        "Department":  "Finance",
+        "Title":  "Accountant",
+        "ImmutableId":  "zb9KKglK3kW8OvSAsS8EpA==",
+        "SyncStatus":  "StagedForCloudProvisioning",
+        "ProvisionedTimestamp":  "2026-10-30 13:26:05"
+    }
+]

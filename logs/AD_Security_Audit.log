@@ -1,0 +1,51 @@
+﻿ACTIVE DIRECTORY SECURITY COMPLIANCE AUDIT REPORT
+Generated: 10/30/2026 19:16:01
+Domain: hybridenterprise.local
+=========================================================
+
+1. Users with PasswordNeverExpires Flag:
+Administrator
+Guest
+
+2. Disabled User Accounts:
+Guest
+krbtgt
+
+3. Empty AD Security Groups:
+Print Operators
+Backup Operators
+Replicator
+Remote Desktop Users
+Network Configuration Operators
+Performance Monitor Users
+Performance Log Users
+Distributed COM Users
+Cryptographic Operators
+Event Log Readers
+Certificate Service DCOM Access
+RDS Remote Access Servers
+RDS Endpoint Servers
+RDS Management Servers
+Hyper-V Administrators
+Access Control Assistance Operators
+Remote Management Users
+Storage Replica Administrators
+OpenSSH Users
+Domain Computers
+Cert Publishers
+RAS and IAS Servers
+Server Operators
+Account Operators
+Incoming Forest Trust Builders
+Terminal Server License Servers
+Allowed RODC Password Replication Group
+Read-only Domain Controllers
+Enterprise Read-only Domain Controllers
+Cloneable Domain Controllers
+Protected Users
+Key Admins
+Enterprise Key Admins
+Forest Trust Accounts
+External Trust Accounts
+DnsAdmins
+DnsUpdateProxy
